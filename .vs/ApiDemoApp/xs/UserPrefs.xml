@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D274F380-9758-4D4D-814A-FB352F8104FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiDemo/Models/UserModel.cs">
+    <Files>
+      <File FileName="ApiDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="ApiDemo/Controllers/UsersController.cs" Line="23" Column="13" />
+      <File FileName="ApiDemo/Models/UserModel.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiDemoApp" expanded="True">
+            <Node name="ApiDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="UserModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ApiDemo PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

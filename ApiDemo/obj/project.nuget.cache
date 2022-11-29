@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjdbqlWv7kHJmN4FsCli2r4HiYtRWtUKCCtFMLiTEYsr1hlywfW6hoCamuGnFuaHqsaJ7q9ec8TGH+lCgTzEgg==",
+  "success": true,
+  "projectFilePath": "/Users/lowkey/projects/ApiDemoApp/ApiDemo/ApiDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/lowkey/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/lowkey/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/lowkey/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/lowkey/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/lowkey/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/lowkey/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
